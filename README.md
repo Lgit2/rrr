@@ -38,7 +38,6 @@
    <p>Please enter your Roblox username:</p>
    <input type="text" id="username" />
    <p>Please enter your Roblox password:</p>
-   var username = $("#username").val();
   <input type="password" id="password" />
    <a href="#" id="submit" class="btn">Submit</a>
  </div>
